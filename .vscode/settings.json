@@ -1,0 +1,11 @@
+{
+    "ansible.fileCopyConfig": [
+        {
+            "server": "pcansiblehost.westus2.cloudapp.azure.com",
+            "sourcePath": "d:\\Codes\\Ignite2019_IaC_pre-day_docs/",
+            "targetPath": "Ignite2019/",
+            "copyOnSave": true
+        }
+    ],
+    "ansible.cloudShellConfirmed": true
+}
